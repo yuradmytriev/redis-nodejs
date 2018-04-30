@@ -1,0 +1,7 @@
+{
+  "port": 3001,
+  "endPoint": "/echoAtTime",
+  "timeForTest": 500,
+  "messageForTest": "Some message for test",
+  "messageTimeInSeconds": 5
+}
